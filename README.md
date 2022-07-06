@@ -1,8 +1,7 @@
 # mirror-email
-The Mirror: HTML Promotional Email
+The Mirror: HTML E-Commerce Email
 
-The Mirror is an HTML email project put together to practice implementing an E-Commerce design from start to finish. 
+Mirror is an HTML email project that implements design from start to finish. 
+It is made using pure HTML and CSS inline styles.
 
-I was inspired to code this project as a daily practice idea. From doing so I have learned a lot about my own speed and productivity working without frameworks. 
-
-In this project I utilized Photoshop, VSCode, and Litmus/Putsmail. 
+Design was made by using adobe creative, litmus/putsmail, vscode, and git.
